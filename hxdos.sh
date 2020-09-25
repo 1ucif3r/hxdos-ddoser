@@ -23,7 +23,7 @@ echo -e "$Cafe########################################################$nc"
 echo -e "##$red----MOST POWERFULL WEBSITE DDOS ATTACKER----BY LUCIFER $nc"
 echo -e "$Cafe########################################################$nc"
 echo -e "$cyan Author :- HRITIK CHARAN KUMBHAR $nc"
-echo -e "$cyan Instagram :- https://www.instagram.com/i__am__hritik_$nc"
+echo -e "$cyan Instagram :- https://www.instagram.com/th3_1ucif3r     $nc"
 
 
                                                                                 
